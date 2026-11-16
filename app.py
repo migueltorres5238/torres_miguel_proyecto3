@@ -1,4 +1,10 @@
-
+"""
+Proyecto 3 - Programacion III
+Alumno: Miguel Angel Torres Monroy
+Archivo: app.py
+Pagina web con Streamlit para registrar conexiones de la red de
+transporte, ejecutar Dijkstra y visualizar los datos del CSV.
+"""
 
 import csv
 import os
